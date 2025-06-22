@@ -55,27 +55,11 @@ This project uses the [OpenWeatherMap API](https://openweathermap.org/api).
 
 ---
 
-## 🔧 How to Run the Project
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/weather-app.git
-```
-
-2. Open the project folder and launch `index.html` in your browser:
-
-```bash
-cd weather-app
-```
-
-3.  Use Live Server in VS Code or host via GitHub Pages/Netlify.
-
----
 
 ## ✨ Demo
 
-[Live Demo Here](#)
+[Live Demo Here](https://divyansh-joshi-mnit.github.io/WeatherApplication/)
 
 ---
 
