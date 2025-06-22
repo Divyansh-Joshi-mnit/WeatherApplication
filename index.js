@@ -7,6 +7,7 @@ const search = document.querySelector("button");
 const weather_space = document.querySelector('.ErrorMessage');
 
 
+
 // Can click on the search button
 search.addEventListener("click", () => {
     const city = input.value.trim();

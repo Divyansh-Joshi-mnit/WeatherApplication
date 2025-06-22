@@ -93,6 +93,7 @@ body{
     font-weight: bold;
 }
 
+/* initially the card will  contain only the search icon and input box  */
 .weather {
     display: none;
-}
+} 
