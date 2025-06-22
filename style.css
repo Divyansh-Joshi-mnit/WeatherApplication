@@ -48,6 +48,16 @@ body{
     cursor:pointer;
 }
 
+.temp{
+   font-size:80px;
+   font-weight:500;
+}
+.city{
+   font-size:45px;
+   font-weight: 400;
+   margin-top: -10px;
+}
+
 .search button img{
     width:40px;
 }
@@ -55,4 +65,30 @@ body{
     width: 60%;
     margin:10px;
     justify-content: center;
+}
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding : 0 20px;
+    margin-top:50px;
+}
+
+.col{
+    display:flex;
+    align-items:center;
+    text-align:left;
+}
+
+.col img{
+    width: 40px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.ErrorMessage {
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
 }
