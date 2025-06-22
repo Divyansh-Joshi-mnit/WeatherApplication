@@ -8,10 +8,10 @@ const weather_space = document.querySelector('.ErrorMessage');
 
 search.addEventListener("click", () => {
     const city = input.value.trim();
-    console.log(`Entered city : ${city}`)
+    // console.log(`Entered city : ${city}`)
     input.value = "";
     checkWeather(city);
-
+ 
 });
 
 input.addEventListener("keydown", (event) => {
