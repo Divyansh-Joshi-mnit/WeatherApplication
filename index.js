@@ -61,7 +61,7 @@ const checkWeather=async (city)=>{
     }
     catch(error){
             // console.error(error);
-            weather_space.innerHTML ="Please Enter a valid city 😭";
+            weather_space.innerHTML ="Currently data not available for this city 😭";
             document.querySelector('.weather').style.display = 'none'; // Hide the main weather contents
     }
 
